@@ -17,8 +17,8 @@ Para que o projeto funcione corretamente, é necessário criar um banco de dados
 - `nome` (varchar 50)
 - `email` (varchar 50)
 - `senha` (varchar 50)
-- `data_cadastro` (date)
-- `ultimo_login` (date)
+- `data_cadastro` (date, caso esteja utilizando linux, utilize text)
+- `ultimo_login` (date, caso esteja utilizando linux, utilize text)
 
 **ATENÇÃO**: Todos os nomes de tabelas e campos devem ser criados com atenção ao 'case sensitivity'.
 
