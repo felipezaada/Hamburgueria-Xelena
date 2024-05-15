@@ -164,6 +164,93 @@ session_start();
     </div>
     <!-- slider_area_end -->
 
+    <!-- testimonial_area_start  -->
+    <div class="testimonial_area ">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                                <div class="section_title mb-60 text-center">
+                                        <span>Depoimentos</span>
+                                        <h3>Compradores Satisfeitos</h3>
+                                    </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="testmonial_active owl-carousel">
+                                <div class="single_carousel">
+                                    <div class="row justify-content-center">
+                                        <div class="col-lg-8">
+                                            <div class="single_testmonial text-center">
+                                                <p>"Se você está em busca de uma experiência gastronômica única e deliciosamente suculenta, não precisa procurar mais longe do que o lendário lanche da Xelena. Ao dar a primeira mordida, você é imediatamente transportado para um mundo de sabores intensos e texturas incríveis. O segredo por trás desse sabor excepcional reside na maionese, indiscutivelmente a mais suculenta da cidade, que eleva cada ingrediente a um nível totalmente novo de indulgência. Combinada com molhos cuidadosamente selecionados, cada mordida é uma explosão de sabor, uma verdadeira sinfonia na escala de Avogadro. A cada camada, você é presenteado com uma mistura harmoniosa de ingredientes frescos e cuidadosamente preparados, criando uma experiência única que deixa um sorriso de satisfação em seu rosto. Sem dúvida, o lanche da Xelena não é apenas uma refeição, é uma jornada culinária que desperta os sentidos e satisfaz até os paladares mais exigentes."</p>
+                                                <div class="testmonial_author">
+                                                    <div class="thumb">
+                                                        <img src="img/testmonial/1.png" alt="">
+                                                    </div>
+                                                    <h4>Kristiana Chouhan</h4>
+                                                    <div class="stars">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star-half"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single_carousel">
+                                    <div class="row justify-content-center">
+                                        <div class="col-lg-8">
+                                            <div class="single_testmonial text-center">
+                                                <p>“Foda pra caramba, super delicoso! Recomendo!"</p>
+                                                <div class="testmonial_author">
+                                                    <div class="thumb">
+                                                        <img src="img/testmonial/2.png" alt="">
+                                                    </div>
+                                                    <h4>Arafath Hossain</h4>
+                                                    <div class="stars">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star-half"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single_carousel">
+                                    <div class="row justify-content-center">
+                                        <div class="col-lg-8">
+                                            <div class="single_testmonial text-center">
+                                                <p>“Slk, delicious sem dúvida"</p>
+                                                <div class="testmonial_author">
+                                                    <div class="thumb">
+                                                        <img src="img/testmonial/3.png" alt="">
+                                                    </div>
+                                                    <h4>A.H Shemanto</h4>
+                                                    <div class="stars">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star-half"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    <!-- testimonial_area_ned  -->
+    
     <!-- JS here -->
     <script src="js/vendor/modernizr-3.5.0.min.js"></script>
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
